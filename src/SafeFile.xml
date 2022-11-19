@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootnode version="1.0" type="example">
+	<Objects>
+		<Supply Name="Milch" Price="1.300000" KCalP100="47" ProteinP100g="3" FatP100g="2" CarbohydrateP100g="5" GrammsPDay="333" totalGramms="1000"/>
+		<Supply Name="Haferflocken" Price="0.600000" KCalP100="372" ProteinP100g="14" FatP100g="7" CarbohydrateP100g="59" GrammsPDay="200" totalGramms="500"/>
+		<Supply Name="Mandeln" Price="2.500000" KCalP100="619" ProteinP100g="24" FatP100g="53" CarbohydrateP100g="6" GrammsPDay="100" totalGramms="200"/>
+		<Supply Name="Bauchspeck" Price="3.000000" KCalP100="290" ProteinP100g="15" FatP100g="25" CarbohydrateP100g="1" GrammsPDay="150" totalGramms="300"/>
+		<Supply Name="Mango Tiefkühl" Price="2.690000" KCalP100="65" ProteinP100g="1" FatP100g="0" CarbohydrateP100g="14" GrammsPDay="100" totalGramms="500"/>
+		<Supply Name="Blaubeeren gefroren" Price="2.690000" KCalP100="49" ProteinP100g="1" FatP100g="1" CarbohydrateP100g="8" GrammsPDay="100" totalGramms="500"/>
+		<Supply Name="Eier" Price="1.290000" KCalP100="153" ProteinP100g="13" FatP100g="11" CarbohydrateP100g="1" GrammsPDay="0" totalGramms="0"/>
+		<Supply Name="Geflügel-Bockwurst" Price="2.990000" KCalP100="244" ProteinP100g="14" FatP100g="20" CarbohydrateP100g="1" GrammsPDay="200" totalGramms="0"/>
+		<Supply Name="Käse" Price="3.500000" KCalP100="370" ProteinP100g="25" FatP100g="30" CarbohydrateP100g="2" GrammsPDay="100" totalGramms="0"/>
+		<Supply Name="Kartoffel" Price="2.490000" KCalP100="71" ProteinP100g="2" FatP100g="0" CarbohydrateP100g="15" GrammsPDay="500" totalGramms="0"/>
+		<Supply Name="Skyr" Price="1.000000" KCalP100="69" ProteinP100g="9" FatP100g="0" CarbohydrateP100g="8" GrammsPDay="250" totalGramms="0"/>
+		<Supply Name="Thunfisch" Price="1.590000" KCalP100="159" ProteinP100g="25" FatP100g="6" CarbohydrateP100g="0" GrammsPDay="150" totalGramms="0"/>
+		<Meal Name="Mango Hafer" Description="" Price="1.830000" KCal="892" Protein="37" Fat="40" Carbohydrate="90">
+			<Ingredients Name="Mango Tiefkühl" Price="0.560000" KCal="65" Protein="1" Fat="0" Carbohydrate="14" TotalGramms="100"/>
+			<Ingredients Name="Haferflocken" Price="0.120000" KCal="372" Protein="13" Fat="7" Carbohydrate="59" TotalGramms="100"/>
+			<Ingredients Name="Milch" Price="0.450000" KCal="141" Protein="9" Fat="6" Carbohydrate="15" TotalGramms="333"/>
+			<Ingredients Name="Mandeln" Price="0.700000" KCal="314" Protein="14" Fat="27" Carbohydrate="2" TotalGramms="50"/>
+		</Meal>
+		<Meal Name="Heidelbeer-Hafer Müsli" Description="" Price="2.330000" KCal="882" Protein="38" Fat="39" Carbohydrate="86">
+			<Ingredients Name="Mandeln" Price="1.340000" KCal="309" Protein="12" Fat="26" Carbohydrate="3" TotalGramms="50"/>
+			<Ingredients Name="Haferflocken" Price="0.130000" KCal="372" Protein="14" Fat="7" Carbohydrate="59" TotalGramms="100"/>
+			<Ingredients Name="Heidelbeeren gefroren" Price="0.420000" KCal="49" Protein="1" Fat="1" Carbohydrate="8" TotalGramms="100"/>
+			<Ingredients Name="Milch" Price="0.440000" KCal="152" Protein="11" Fat="5" Carbohydrate="16" TotalGramms="330"/>
+		</Meal>
+		<Meal Name="Pommes mit Bratwurst" Description="" Price="2.000000" KCal="843" Protein="38" Fat="41" Carbohydrate="75">
+			<Ingredients Name="Kartoffel" Price="0.500000" KCal="355" Protein="10" Fat="1" Carbohydrate="73" TotalGramms="500"/>
+			<Ingredients Name="Geflügel-Bockwurst" Price="1.500000" KCal="488" Protein="28" Fat="40" Carbohydrate="2" TotalGramms="200"/>
+		</Meal>
+	</Objects>
+</rootnode>

@@ -1,0 +1,22 @@
+4. Add Recipe to meals
+
+5. Tagesplan erstellen (skalierbar auf Wochen, Monate usw...)
+    -Login Meal with makeMeal
+        -Get the meal nutrients and display them
+        -Daily aim
+        -SafeFile Für Dates, aber am ende
+    -Date from calendar
+
+7. Bei Add Meal Nährwerte intern berechnen !!!
+    -Supply aus pantry benutzen, Funktion benötigt wahrscheinlich nur Name und Gramm
+
+8. Collect Nutritions for Output
+
+5.
+
+farben
+Quinacridone Magenta PV19
+raw umber
+transparent red oxide PR101
+Venetian Red PR101
+Rose Madder (PR209)
